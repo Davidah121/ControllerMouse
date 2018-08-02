@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alan\documents\visual studio 2017\projects\controllermouse\controllermouse\source.cpp(167): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\documents\visual studio 2017\projects\controllermouse\controllermouse\source.cpp(168): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  ControllerMouse.vcxproj -> C:\Users\Alan\Documents\Visual Studio 2017\Projects\ControllerMouse\Debug\ControllerMouse.exe
+  ControllerMouse.vcxproj -> C:\Users\Alan\Documents\Visual Studio 2017\Projects\ControllerMouse\Debug\ControllerMouse.pdb (Partial PDB)
