@@ -13,4 +13,4 @@
 </ul>
 
 <h1>Why?</h1>
-<p>This project was mostly just to use the XInput api in a usable example.</p>
+<p>This project was mostly just to use the XInput api in a interactable example.</p>
